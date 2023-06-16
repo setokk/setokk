@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/9b/13/98/9b1398619fa808505a7dbd6da70b2ff1.gif" width="100"/>
 </div>
 <!--
 **setokk/setokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
