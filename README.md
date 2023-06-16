@@ -1,9 +1,9 @@
 ### Hi there 👋
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/9b/13/98/9b1398619fa808505a7dbd6da70b2ff1.gif" width="200" height="auto"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/kostandin-kote-255382223/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+</div>
 </div>
 <!--
 **setokk/setokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
