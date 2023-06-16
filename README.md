@@ -6,8 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=setokk&style=flat-square&color=red" alt=""/>
   
   ### Kote Kostandin 🪐
-  <main>
-  </main>
+  ---
+  
+  ### About me
+  
 </div>
 <!--
 **setokk/setokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
