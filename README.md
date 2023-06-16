@@ -15,4 +15,13 @@
 - 💻 Interest in Software Enginnering/Quality as well as problem solving with concurrent/parallel programming.
 
 ---
+### Languages and Tools
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
+</div>
  
