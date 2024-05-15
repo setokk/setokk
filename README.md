@@ -11,7 +11,7 @@
 </div>
 
 ### ⚡ About me
-- 📚 Currently my 4th year of studies in the Department of Applied Informatics, Computer Science and Technology at University of Macedonia.
+- 📚 Currently in my 4th year of studies in the Department of Applied Informatics, Computer Science and Technology at University of Macedonia.
 - ⚙️ Interest in Software Enginnering/Quality as well as problem solving with concurrent/parallel programming.
 - 💻 Software Engineer @Netcompany-Intrasoft.
 
